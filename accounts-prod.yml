@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs FROM Github"
   contactDetails:
     name: "Reina - Product Owner"
-    email: "reina@eazybank.com"
+    email: "{cipher}f92b3138075f985ca4373c98775d470d92f4a1dd268f17469cca9cd214b4c35c501dc2802fd15db092bf51ab5d233094"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
